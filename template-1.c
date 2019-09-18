@@ -1,9 +1,9 @@
 /*---------------------------------------------------------------------------------------------------------------------------------------
 File: FinalVersion.c
 
-Authors: Mohamed Bachrouch (8160410) and Sami Bou Khaled (8658286)
+Author: Mohamed Bachrouch
 
-Description: This program calculates the root of the function of Equation (3) in the deliverables and plots it and marks the root. It
+Description: This program calculates the root of the function of an Equation and plots it and marks the root. It
 starts off by checking if the file exists or not. If it does not, the it gives the user the option to input 5 sets of values with which
 the root is calculated and the graph is plotted, and it creates the file. Once the file is created, the user runs the program a second
 time and sees all the sets contained in the file, and has the choice to either use of the existing sets to calculate the root, or enter
