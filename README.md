@@ -6,7 +6,11 @@ This program plots the function described in Equation 1, asks the user to select
 
 Equation 1: 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;g(R)=\frac{L}{2L}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;g(R)=e^{-R*T_{d}/{2L}}*cos\left [ \left ( \sqrt{\frac{1}{LC}-\left ( \frac{R}{2L} \right )^{2}} \right )*t_{d} \right ]-p_{c}" />
+
+Equation 1 was derived using Kirchhoff's second law, which states that the total sum of voltage drops around a closed electrical circuit is zero.
+
+Equation 1 will give the value of R which satisfies Equation (2). In this case, we need to simply find the roots of g(R), otherwise stated as g(R) = 0. This will give us the proper value of resistance R to dissipate energy knowing the rate of dissipation td, the inductance L, the percentage of original charge pc, and the capacitance C.
 
 The procedure used is described below:
 
