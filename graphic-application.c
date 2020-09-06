@@ -593,7 +593,7 @@ void plot(INPUT *inputPtr, double points[][NUM_POINTS])
 Function: getMin
 
 Parameters:
-arr[] – pointer to the y-component of the previous points[][NUM_POINT] which contains all the values for plotting.
+arr[] Â– pointer to the y-component of the previous points[][NUM_POINT] which contains all the values for plotting.
 
 Returns:
 min - the value of the minumum
@@ -616,7 +616,7 @@ double getMin(double arr[])
 Function: getMax
 
 Parameters:
-arr[] – pointer to the y-component of the previous points[][NUM_POINT] which contains all the values for plotting.
+arr[] Â– pointer to the y-component of the previous points[][NUM_POINT] which contains all the values for plotting.
 
 Returns:
 min - the value of the maximum
