@@ -4,7 +4,7 @@ Design of an RLC Electrical Circuit.
 
 This program plots the function described in Equation 1, asks the user to select an interval for finding roots. An incremental search root finding method is used. A total of 100 points are used to plot. 
 
-Equation 1: 
+Equation 1: $`a^2+b^2=c^2`$
 
 The procedure used is described below:
 
