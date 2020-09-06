@@ -6,7 +6,7 @@ This program plots the function described in Equation 1, asks the user to select
 
 Equation 1: 
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;g(R)=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;g(R)=\frac{L}{2L}" title="\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" />
 
 The procedure used is described below:
 
