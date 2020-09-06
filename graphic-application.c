@@ -4,7 +4,7 @@ File: FinalVersion.c
 Author: Mohamed Bachrouch
 
 Description: This program calculates the root of the function of an Equation and plots it and marks the root. It
-starts off by checking if the file exists or not. If it does not, the it gives the user the option to input 5 sets of values with which
+starts off by checking if the file exists or not. If it does not, then it gives the user the option to input 5 sets of values with which
 the root is calculated and the graph is plotted, and it creates the file. Once the file is created, the user runs the program a second
 time and sees all the sets contained in the file, and has the choice to either use of the existing sets to calculate the root, or enter
 a new set of values to calculate the root. The user then has the option to save those values in an empty, or full slot in the file.
