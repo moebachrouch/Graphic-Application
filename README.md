@@ -10,7 +10,7 @@ Equation 1:
 
 Equation 1 was derived using Kirchhoff's second law, which states that the total sum of voltage drops around a closed electrical circuit is zero.
 
-Equation 1 will give the value of R which satisfies Equation (2). In this case, we need to simply find the roots of g(R), otherwise stated as g(R) = 0. This will give us the proper value of resistance R to dissipate energy knowing the rate of dissipation td, the inductance L, the percentage of original charge pc, and the capacitance C.
+We need to find the roots of g(R), or R such that g(R) = 0. This will give the proper value of resistance R to dissipate energy knowing the rate of dissipation td, the inductance L, the percentage of original charge pc, and the capacitance C.
 
 The procedure used is described below:
 
