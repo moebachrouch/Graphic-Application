@@ -1,4 +1,4 @@
-# graphic-application
+# Design of an RLC Circuit
 ## This program was completed as part of the class curriculum for Introduction to Engineering Computation.
 ### Design of an RLC Electrical Circuit.
 
