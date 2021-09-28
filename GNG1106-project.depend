@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1632865691 source:c:\users\moe\desktop\gng1106-project\gng1106-project\template.c
+	<stdio.h>
+	<gng1106plplot.h>
+	"plplot.h"
+	<math.h>
+	<float.h>
+
+1632864147 c:\libs\plplotinstall5-15\include\plplot\gng1106plplot.h
+	"plplot.h"
+
+1632864148 c:\libs\plplotinstall5-15\include\plplot\plplot.h
+	"plConfig.h"
+	<stdio.h>
+	<stdlib.h>
+	"pldll.h"
+	<stdint.h>
+	<Limits.h>
+
+1632864147 c:\libs\plplotinstall5-15\include\plplot\plconfig.h
+	<plplot_config.h>
+
+1632864148 c:\libs\plplotinstall5-15\include\plplot\pldll.h
+
+1632865691 source:c:\users\moe\desktop\projects\gng1106-project\gng1106-project\template.c
+	<stdio.h>
+	<gng1106plplot.h>
+	"plplot.h"
+	<math.h>
+	<float.h>
+
