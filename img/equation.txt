@@ -1,0 +1,1 @@
+g(R)=e^{-R*T_{d}/{2L}}*cos\left [ \left ( \sqrt{\frac{1}{LC}-\left ( \frac{R}{2L} \right )^{2}} \right )*t_{d} \right ]-p_{c}
