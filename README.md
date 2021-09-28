@@ -4,7 +4,7 @@ This program plots the function described in Equation 1, asks the user to select
 
 Equation 1: 
 
-![img](/img/equation.png)
+![img](/img/equation.jpg)
 
 Equation 1 was derived using Kirchhoff's second law, which states that the total sum of voltage drops around a closed electrical circuit is zero.
 
