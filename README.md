@@ -4,7 +4,7 @@ This program plots the function described in Equation 1, asks the user to select
 
 Equation 1: 
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=g(R)=e^{-R*T_{d}/{2L}}*cos\left&space;[&space;\left&space;(&space;\sqrt{\frac{1}{LC}-\left&space;(&space;\frac{R}{2L}&space;\right&space;)^{2}}&space;\right&space;)*t_{d}&space;\right&space;]-p_{c}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?g(R)=e^{-R*T_{d}/{2L}}*cos\left&space;[&space;\left&space;(&space;\sqrt{\frac{1}{LC}-\left&space;(&space;\frac{R}{2L}&space;\right&space;)^{2}}&space;\right&space;)*t_{d}&space;\right&space;]-p_{c}" title="g(R)=e^{-R*T_{d}/{2L}}*cos\left [ \left ( \sqrt{\frac{1}{LC}-\left ( \frac{R}{2L} \right )^{2}} \right )*t_{d} \right ]-p_{c}" /></a>
+![img](/img)
 
 Equation 1 was derived using Kirchhoff's second law, which states that the total sum of voltage drops around a closed electrical circuit is zero.
 
