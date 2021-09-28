@@ -1,6 +1,4 @@
-# graphic-application
-## This program was completed as part of the class curriculum for Introduction to Engineering Computation.
-### Design of an RLC Electrical Circuit.
+# Design of an RLC Circuit
 
 This program plots the function described in Equation 1, asks the user to select an interval for finding roots. An incremental search root finding method is used. A total of 100 points are used to plot. 
 
